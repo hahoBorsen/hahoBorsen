@@ -4,6 +4,7 @@ You've found my work profile, where all my workrelated code is made/posted. Beca
 
 Hans-Henrik
 
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Tux&logoColor=white&color=2bbc8a)
 
 
 <!--
