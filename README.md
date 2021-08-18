@@ -4,7 +4,7 @@ You've found my work profile, where all my workrelated code is made/posted. Beca
 
 Hans-Henrik
 
-[![Hans-Henriks' GitHub stats](https://github-readme-stats.vercel.app/api?username=hahoBorsen&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **hahoBorsen/hahoBorsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
