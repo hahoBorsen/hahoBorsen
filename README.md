@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+
+You've found my work profile, where all my workrelated code is made/posted. Because I work at the awesome workplace of Dagbladet Børsen, all of that work is obviously private. So this repository mostly serves the purpose of showing my experience with coding, while my private profile, HHHoegsted, has a few public repositories. Most of these are older repos from my time at school, and are impaired by the fact that they were made while learning.
+
+Hans-Henrik
+
+[![Hans-Henriks' GitHub stats](https://github-readme-stats.vercel.app/api?username=hahoBorsen)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hahoBorsen/hahoBorsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
